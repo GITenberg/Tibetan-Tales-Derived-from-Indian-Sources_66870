@@ -5,12 +5,17 @@ contributor:
     agent_name: Ralston, W.R.S.
     gutenberg_agent_id: '53998'
     url: http://www.gutenberg.org/2009/agents/53998
+covers:
+- cover_type: archival
+  image_path: 66870-h/images/new-cover.jpg
 creator:
   editor:
     agent_name: Schiefner, F. Anton Von
     gutenberg_agent_id: '53997'
     url: http://www.gutenberg.org/2009/agents/53997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66870#Tibetan-Tales-Derived-from-Indian-Sources
 gutenberg_issued: '2021-12-02'
 identifiers:
   gutenberg: '66870'
